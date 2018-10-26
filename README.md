@@ -29,16 +29,5 @@
 ## 深度学习
 ## 数据挖掘
 
-*****
-
-> 欢迎Star or Fork and PR  
-> 欢迎联系作者, 交流心得, 提出意见或者建议  
-> QQ: 2548410  
-> Mail: loveshichuan@foxmail.com  
-> WeChat: 2548410  
-> Mobile: 13730663065(不接受陌生号码首拨, 请先发短信联系)  
-> Site: http://www.zhangshichuan.com/
-
-*****
 
 
